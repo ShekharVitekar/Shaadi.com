@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Testing TestNG Practice" duration-ms="146" started-at="2021-05-14T18:28:28Z" finished-at="2021-05-14T18:28:29Z">
+    <groups>
+    </groups>
+    <test name="Regression" duration-ms="146" started-at="2021-05-14T18:28:28Z" finished-at="2021-05-14T18:28:29Z">
+      <class name="testng.TestNG1">
+        <test-method status="PASS" signature="m5()[pri:4, instance:testng.TestNG1@548e7350]" name="m5" duration-ms="5" started-at="2021-05-14T18:28:28Z" finished-at="2021-05-14T18:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method status="PASS" signature="m4()[pri:5, instance:testng.TestNG1@548e7350]" name="m4" duration-ms="7" started-at="2021-05-14T18:28:29Z" finished-at="2021-05-14T18:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method status="PASS" signature="m6()[pri:6, instance:testng.TestNG1@548e7350]" name="m6" duration-ms="10" started-at="2021-05-14T18:28:29Z" finished-at="2021-05-14T18:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+      </class> <!-- testng.TestNG1 -->
+      <class name="testng.TestNG">
+        <test-method status="PASS" signature="m2()[pri:1, instance:testng.TestNG@5442a311]" name="m2" duration-ms="23" started-at="2021-05-14T18:28:28Z" finished-at="2021-05-14T18:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:2, instance:testng.TestNG@5442a311]" name="m3" duration-ms="2" started-at="2021-05-14T18:28:28Z" finished-at="2021-05-14T18:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method status="PASS" signature="m1()[pri:3, instance:testng.TestNG@5442a311]" name="m1" duration-ms="3" started-at="2021-05-14T18:28:28Z" finished-at="2021-05-14T18:28:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- testng.TestNG -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing TestNG Practice -->
+</testng-results>
